@@ -1,7 +1,7 @@
 # UT Introduction to Neural Networks and Deep Learning Course
 Projects of Introduction to Neural Networks and Deep Learning Course - Fall 2022 - University of Tehran
 # CA1
-  * Q1: McCulloch-Pitts neural model - 2-bit binary multiplier
+  * Q1: McCulloch-Pitts neural model - 2-Bit Binary Multiplier
   * Q2: AdalLine and MadaLine - Binary Classification
   * Q3: Restricted Boltzmann Machine - Collaborative Filtering
   * Q4: Multi Layer Perceptron - House Price Prediction
