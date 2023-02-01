@@ -13,6 +13,8 @@ Projects of Introduction to Neural Networks and Deep Learning Course - Fall 2022
   * Q2: Delving into High-Quality Synthetic Face Occlusion Segmentation Datasets
   * Q3: YOLOv6: Real-Time Object Detection
 # CA4
+ * Q1: Air‑pollution prediction in smart city, deep learning approach - CNN-RNN 
+ * Q2: Fake News Detection: A hybrid CNN-RNN based deep learning approach
 # CA5
 # CA6
 # Extra
