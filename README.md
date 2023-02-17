@@ -15,10 +15,12 @@ Projects of Introduction to Neural Networks and Deep Learning Course - Fall 2022
 # CA4 - (CNN-RNN)
  * Q1: Air‑pollution prediction in smart city, deep learning approach
  * Q2: Fake News Detection: A hybrid CNN-RNN based deep learning approach
-# CA5 - (Transformer)
+# CA5 - (Transformers)
  * Q1: Implementation of BERT
  * Q2: BEIT: BERT Pre-Training of Image Transformers
 # CA6 - (GAN)
+ * Q1: Implementation Deep Convolutional GAN
+ * Q2: implementation Auxiliary Classifier GAN
 # Extra
  * Q1: Credit Card Fraud Detection Using Autoencoders
  * Q3: A recognition model for handwritten PersianArabic
